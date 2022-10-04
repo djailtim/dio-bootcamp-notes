@@ -13,4 +13,9 @@ public class Quadrilatero {
         double area = ((baseMaior + baseMenor) * altura) / 2;
         System.out.println("Área do trapézio: " + area);
     }
+
+    public static void area(float diagonal1, float diagonal2) {
+        float area = (diagonal1 * diagonal2) /2;
+        System.out.println("Área do Losango: " + area);
+    }
 }

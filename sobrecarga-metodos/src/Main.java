@@ -10,7 +10,8 @@ public class Main {
         * */
 
         Quadrilatero.area(4);
-        Quadrilatero.area(3.5, 5.7);
+        Quadrilatero.area(3.5d, 5.7d);
         Quadrilatero.area(3,5, 2);
+        Quadrilatero.area(5f, 5f);
     }
 }
