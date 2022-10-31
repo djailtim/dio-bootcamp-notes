@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/collections/collections.iml" filepath="$PROJECT_DIR$/collections/collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" filepath="$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/conversoes/conversoes.iml" filepath="$PROJECT_DIR$/conversoes/conversoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-bootcamp-notes.iml" filepath="$PROJECT_DIR$/.idea/dio-bootcamp-notes.iml" />
